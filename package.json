@@ -1,0 +1,34 @@
+{
+  "name": "@minimouli/printf",
+  "version": "1.0.0",
+  "keywords": [
+    "minimouli",
+    "project=myprintf",
+    "school=epitech"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepack": "yarn run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minimouli/printf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minimouli/printf/issues"
+  },
+  "homepage": "https://github.com/minimouli/printf",
+  "license": "MIT",
+  "files": [
+    "dist/**/*",
+    "res/**/*",
+    "mouli.json"
+  ],
+  "dependencies": {
+    "@minimouli/framework": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.11",
+    "typescript": "^4.5.2"
+  }
+}

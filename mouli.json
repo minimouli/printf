@@ -1,0 +1,7 @@
+{
+    "rootDir": "./dist",
+    "binaries": {},
+    "suites": {
+        "default": []
+    }
+}
