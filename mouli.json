@@ -6,7 +6,8 @@
             "base.suite.js",
             "easy.suite.js",
             "medium.suite.js",
-            "easy-format.suite.js"
+            "easy-format.suite.js",
+            "medium-format.suite.js"
         ]
     }
 }
