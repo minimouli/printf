@@ -5,7 +5,8 @@
         "default": [
             "base.suite.js",
             "easy.suite.js",
-            "medium.suite.js"
+            "medium.suite.js",
+            "easy-format.suite.js"
         ]
     }
 }
