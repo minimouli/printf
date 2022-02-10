@@ -2,6 +2,8 @@
     "rootDir": "./dist",
     "binaries": {},
     "suites": {
-        "default": []
+        "default": [
+            "base.suite.js"
+        ]
     }
 }
