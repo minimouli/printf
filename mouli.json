@@ -7,7 +7,8 @@
             "easy.suite.js",
             "medium.suite.js",
             "easy-format.suite.js",
-            "medium-format.suite.js"
+            "medium-format.suite.js",
+            "hard-format.suite.js"
         ]
     }
 }
